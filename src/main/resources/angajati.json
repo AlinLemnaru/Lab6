@@ -1,0 +1,32 @@
+[
+  {
+    "numele": "Alex",
+    "postul": "casier sef",
+    "data_angajarii": "2023-04-10",
+    "salariul": 2600.5
+  },
+  {
+    "numele": "Bogdi",
+    "postul": "brutar sef",
+    "data_angajarii": "2024-04-08",
+    "salariul": 3800.5
+  },
+  {
+    "numele": "Vlad",
+    "postul": "intern",
+    "data_angajarii": "2023-07-10",
+    "salariul": 2400.5
+  },
+  {
+    "numele": "Matei",
+    "postul": "casier",
+    "data_angajarii": "2024-10-09",
+    "salariul": 2000.5
+  },
+  {
+    "numele": "Radu",
+    "postul": "inginer director",
+    "data_angajarii": "2023-04-02",
+    "salariul": 11000
+  }
+]
